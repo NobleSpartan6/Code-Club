@@ -33,7 +33,7 @@ Work hard at meetings, and everywhere else! If you want to learn how to code you
 We ask every member pay $5 to allow to provide things like snacks, books, and other cool stuff!
 
 **For Students interested in AP Comp Sci Test:**
-- Since we only meet three times a week, you will have to do a lot of work on your own. On our GitHub page, we keep as many resources as we can for you! Use it as much as you can! [Click Here For Github!]("https://github.com/NobleSpartan6/Code-Club")
+- Since we only meet once a week, you will have to do a lot of work on your own. On our GitHub page, we keep as many resources as we can for you! Use it as much as you can! [Click Here For Github!]("https://github.com/NobleSpartan6/Code-Club")
 
 ## Contact
 ### Ebenezer Eshetu:
