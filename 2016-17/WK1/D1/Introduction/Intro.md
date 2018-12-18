@@ -1,8 +1,8 @@
 # Hello Code Club members!
 
-![meme](meme.jpg)
+![meme](https://www.probytes.net/wp-content/uploads/2018/01/11-1.png)
 
-Link to google presentation: [Here](https://docs.google.com/presentation/d/1050Nsg7OW_D_WovhY_0UgM7h2bWyBQME27npsfM8BW0/edit?usp=sharing)
+Link to google presentation: [Here](https://docs.google.com/presentation/d/1GmxrUZL82n8Y6YifpY-E3NSlJASevBT3X4xDkeYuYuI/edit?usp=sharing)
 
 ## What Do We Do?
 Meetings are full of lots of things! Most meetings start out with some lessons on programming concepts, then we will spend some time practicing coding and making our own unique projects. We want to give you the skills you need to make whatever you want!
@@ -18,11 +18,11 @@ What we can accomplish this year depends on a lot of factors.
 Oh, and we eat a lot of snacks!
 
 ## When Is It?
-Code Club meetings will be held in the winter, Monday afternoon, Tuesday morning, Thursday afternoon.
-- Tuesday mornings are for those interested in AP Computer Science
+Code Club meetings will be held in the winter every Thursday afternoon.
+- Thursday mornings are for those interested in AP Computer Science
 
 ## What Is Our Mission?
-Code Club was created to found a group of students aware of the beauty behind the hidden languages that make our world go round. Last year we started with small goals, this year Code Club is aiming for fifty members, with several of those members aiming to pass the AP Computer Science test in the Spring. To get to this point will take a lot of work
+Code Club was created to found a group of students aware of the beauty behind the hidden languages that make our world go round. Our goal this year is to reach at least 25 members with several of those members aiming to pass the AP Computer Science test in the Spring. To get to this point will take a lot of work Last time members of Code Club go together was 2016-2017 and the club has been revived this year. 
 
 ## Who Is It For?
 The beauty of Code Club is it is for everyone! Regardless of what field you want to go into in the future, computer programming will be involved because our whole world is tech oriented. Everyone has a lot to gain from this club.
@@ -33,21 +33,15 @@ Work hard at meetings, and everywhere else! If you want to learn how to code you
 We ask every member pay $5 to allow to provide things like snacks, books, and other cool stuff!
 
 **For Students interested in AP Comp Sci Test:**
-- Since we only meet three times a week, you will have to do a lot of work on your own. On our GitHub page, we keep as many resources as we can for you! Use it as much as you can! [Click Here For Github!]("https://github.com/momja/Code-Club")
+- Since we only meet three times a week, you will have to do a lot of work on your own. On our GitHub page, we keep as many resources as we can for you! Use it as much as you can! [Click Here For Github!]("https://github.com/NobleSpartan6/Code-Club")
 
 ## Contact
-### Max Omdal:
+### Ebenezer Eshetu:
 ```
-Phone: (952) 201 4661
-Email: mjomdal@gmail.com
+Phone: (612) 991 8457
+Email: ebenezereshetu@gmail.com
 ```
-### Matthias Hare:
+### Jacques Miller:
 ```
-Phone: (952) 217 7031
-Email: mattphare53@isd194.org
-```
-### Jared Bock:
-```
-Phone: (952) 491 3084
-Email: jarecbock14@isd194.org
-```
+Phone: (612) 760 4548
+Email: Northern107@gmail.com
