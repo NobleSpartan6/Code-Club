@@ -1,6 +1,6 @@
 # Hello Code Club members!
 
-![meme](https://www.probytes.net/wp-content/uploads/2018/01/11-1.png)
+![meme](https://ibb.co/WG3Xvdh)
 
 Link to google presentation: [Here](https://docs.google.com/presentation/d/1GmxrUZL82n8Y6YifpY-E3NSlJASevBT3X4xDkeYuYuI/edit?usp=sharing)
 
