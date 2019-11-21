@@ -1,5 +1,4 @@
-// Max Omdal
-// Code Club 2016
+// Code Club 2019
 
 class WhileLoop {
   public static void main(String[] args) {
