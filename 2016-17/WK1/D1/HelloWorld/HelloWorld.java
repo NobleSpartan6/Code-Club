@@ -1,5 +1,4 @@
-// Max Omdal
-// Code Club 2016
+// Code Club 2019
 
 //declares a class called HelloWorld. Note the file name is also HelloWorld
 public class HelloWorld {
