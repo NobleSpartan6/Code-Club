@@ -1,5 +1,5 @@
-###### Max Omdal ######
-###### Code Club 2016 ######
+###### Ebenezer Eshetu ######
+###### Code Club 2019 ######
 
 ## Fibonacci Sequence Project ##
 ##### The fibonacci sequence is a series of numbers in which each number ( Fibonacci number ) is the sum of the two preceding numbers. #####
