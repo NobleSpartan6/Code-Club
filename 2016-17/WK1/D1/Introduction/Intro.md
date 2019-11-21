@@ -9,9 +9,9 @@ Meetings are full of lots of things! Most meetings start out with some lessons o
 
 Some things we will be doing this year:
 - Learning Java
-- Making simple Games
-- Understanding How Programming impacts the world
-- Making website
+- Making simple games
+- Understanding how programming impacts the world
+- Making a website
 - **Optional study** for AP Computer Science Test
 
 What we can accomplish this year depends on a lot of factors.
@@ -19,7 +19,7 @@ Oh, and we eat a lot of snacks!
 
 ## When Is It?
 Code Club meetings will be held in the winter every Thursday afternoon.
-- Thursday mornings are for those interested in AP Computer Science
+- Fridays after school are for those interested in AP Computer Science
 
 ## What Is Our Mission?
 Code Club was created to found a group of students aware of the beauty behind the hidden languages that make our world go round. Our goal this year is to reach at least 25 members with several of those members aiming to pass the AP Computer Science test in the Spring. To get to this point will take a lot of work Last time members of Code Club go together was 2016-2017 and the club has been revived this year. 
