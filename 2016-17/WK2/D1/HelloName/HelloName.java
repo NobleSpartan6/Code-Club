@@ -1,11 +1,11 @@
-// Max Omdal
-// Code Club 2016
+// Ebenezer Eshetu
+// Code Club 2019
 
 public class HelloName {
   //variable declares name of person
-  public static String name = "Max";
+  public static String name = "Joe";
   public static void main(String[] args) {
-    //prints "Hello Max!"
+    //prints "Hello Joe!"
     System.out.print("Hello" + " " + name + "!");
   }
 }
