@@ -1,4 +1,4 @@
-###### Ebenezer ######
+###### Ebenezer Eshetu ######
 ###### Code Club 2019 ######
 
 ## Identifiers ##
