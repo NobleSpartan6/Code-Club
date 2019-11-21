@@ -1,5 +1,5 @@
-// Max Omdal
-// Code Club 2016
+// Ebenezer Eshetu
+// Code Club 2019
 
 class Fibonacci {
   public static int sizeOfSequence = 20;
@@ -34,3 +34,32 @@ class Fibonacci {
   }
 
 }
+
+
+
+
+
+//version two 
+
+   public class Fibonacci {
+      public static int sizeOfSequence = 20;
+      public static void main(String[] args) {
+
+        for (int i = 0; i < sizeOfSequence; i++) {
+          System.out.println(getFib(i));
+        }
+      }
+      public static int getFib(int n) {
+        // get a number at position n in the sequence here
+          int[] array = new int[sizeOfSequence];
+            array[1] = 1;
+             array[2] = 1;
+
+          for (int i =3; i<sizeOfSequence; i++)
+          {
+            array[i] = array[i-1] + array[i-2];
+          }
+       return array[n];
+      }
+
+    }
