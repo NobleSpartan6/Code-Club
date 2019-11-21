@@ -4,4 +4,4 @@
 
 Started in 2015, Code Club will always be an activity for anyone and everyone.
 
-[Click here to check out our website](https://momja.github.io/Code-Club/)
+[Click here to check out our website](https://lnhscodeclub.000webhostapp.com/)
