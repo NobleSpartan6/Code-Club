@@ -1,5 +1,5 @@
-###### Max Omdal ######
-###### Code Club 2016 ######
+###### Ebenezer Eshetu ######
+###### Code Club 2019 ######
 
 ## Operators ##
 
