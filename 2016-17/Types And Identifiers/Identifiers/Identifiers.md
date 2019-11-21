@@ -1,5 +1,5 @@
-###### Max Omdal ######
-###### Code Club 2016 ######
+###### Ebenezer ######
+###### Code Club 2019 ######
 
 ## Identifiers ##
 
@@ -7,11 +7,11 @@ In java, an identifier is the name you give to any variable:
 
 ```java
 
-int bigNumber = 10235908;
+int smollNumber = 108;
 
 ```
 
-here, the identifier of this variable is bigNumber, because that is the name associated with the value
+here, the identifier of this variable is smollNumber, because that is the name associated with the value
 
 - keywords are not allowed as Identifiers (i.e. you cant name your variable 'class')
 - multi-word Identifiers should be formatted either in camel case or with underscores. There can be no spaces.
@@ -29,8 +29,8 @@ String its_My_Birthday = "April 9, 1997";
 
 ```java
 
-int bigNumber = 100;
+int hugeCap = 100;
 // is not the same as:
-int bignumber = 100;
+int nocappin = 100;
 
 ```
