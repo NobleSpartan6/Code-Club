@@ -5,7 +5,7 @@ public class IfThisThenThat {
   public static void main(String[] args) {
     Boolean This = false;
 
-if (This = true) {
+if (This) {
 // if statements require a boolean, parameters will always equal true or false
    WorldPeace();
    // "This" is currently false, so the if statement is false, WorldPeace() will not run.
