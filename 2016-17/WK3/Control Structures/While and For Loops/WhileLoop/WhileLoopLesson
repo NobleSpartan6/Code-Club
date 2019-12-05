@@ -1,0 +1,16 @@
+// Jacques Miller
+// Code Club 2019
+
+class WhileLoop {
+  public static void main(String[] args) {
+    int x = 0;
+    while(x < 10) 
+    {
+      //While Loop Runs until parameters are true
+      // in this loop, x is added by x++ each time (x++ = x+1)
+      // once x = 10, Loop is completed and code moves on.
+      System.out.println(x);
+      x++;
+    }
+  }
+}
