@@ -3,7 +3,7 @@
 
 public class Arrays2 {
   public static void main(String[] args) {
-    // String[] creates an array
+    // String[] creates an array //
     String[] groceryList = {"banana", "oatmeal", "eggs", "sausage", "potatoes"};
     // Loops through all the items in the grocerylist
     for (String food: groceryList) {
